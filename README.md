@@ -42,7 +42,7 @@
 <h2>📫 Contato</h2>
 
 <ul>
-  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/alexandre-junior-ab0307281/">Em breve</a></li>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/alexandre-junior-ab0307281/"></a></li>
   <li>📧 Email: alexandrejunior1017@gmail.com</li>
 </ul>
 
