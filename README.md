@@ -38,23 +38,12 @@
 
 <hr>
 
-<h2>📈 Estatísticas do GitHub</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ale29482ur&show_icons=true&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale29482ur&layout=compact&theme=dark"/>
-</p>
-
-<hr>
 
 <h2>📫 Contato</h2>
 
 <ul>
-  <li>💼 LinkedIn: <a href="https://www.linkedin.com">Em breve</a></li>
-  <li>📧 Email: seuemail@email.com</li>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/alexandre-junior-ab0307281/">Em breve</a></li>
+  <li>📧 Email: alexandrejunior1017@gmail.com</li>
 </ul>
 
 <p align="center">
