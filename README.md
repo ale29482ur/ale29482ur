@@ -44,6 +44,7 @@
 <ul>
   <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/alexandre-junior-ab0307281/">Meu perfil</a></li>
   <li>📧 Email: alexandrejunior1017@gmail.com</li>
+  <li>⚡ Portfólio: <a href="https://portfolio-alexandrejunior.netlify.app/">Portfólio</a></li>
 </ul>
 
 <p align="center">
