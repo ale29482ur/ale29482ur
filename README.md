@@ -18,7 +18,7 @@
 
 <ul>
   <li>🎯 Foco em desenvolvimento Front-End</li>
-  <li>💻 Criação de interfaces modernas e responsivas</li>
+  <li>💻 Criação de interfaces modernas e sistemas web otimizados</li>
   <li>⚡ Experiência com Bootstrap e React</li>
   <li>📚 Sempre aprendendo e evoluindo</li>
 </ul>
