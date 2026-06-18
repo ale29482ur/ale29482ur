@@ -1,4 +1,4 @@
-```html
+
 <h1 align="center">🚀 Alexandre Junior</h1>
 
 <p align="center">
@@ -137,4 +137,3 @@
 <p align="center">
   <strong>🚀 Open to Full-Stack, Front-End and Freelance Opportunities</strong>
 </p>
-```
