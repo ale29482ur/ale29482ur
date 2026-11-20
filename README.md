@@ -105,14 +105,6 @@
   <li>📈 Estrutura voltada para conversão de clientes</li>
 </ul>
 
-<h3>🍽️ Sistema de Redução de Desperdício Escolar</h3>
-
-<ul>
-  <li>📋 Controle de refeições e presença dos alunos</li>
-  <li>🤖 Integração planejada com automações e IA</li>
-  <li>📊 Geração de relatórios para tomada de decisão</li>
-  <li>🎯 Foco na redução de desperdício de alimentos</li>
-</ul>
 
 <hr>
 
